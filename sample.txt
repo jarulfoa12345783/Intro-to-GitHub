@@ -1,0 +1,3 @@
+This is my third sample file for the Intro-to-GitHub activity.
+
+This file demonstrates how files can be added and managed in a GitHub repository.
