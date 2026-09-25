@@ -1,0 +1,3 @@
+This file contains information about my Git and GitHub activity.
+
+I am learning how to create repositories, manage files, commit changes, and synchronize a local repository with GitHub.
